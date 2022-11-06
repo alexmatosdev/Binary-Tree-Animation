@@ -1,16 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/*
- * Class: CMSC214 
- * Instructor: Cristopher Fallon
- * Date: 3/27/2022
- * Description: This class uses File to decrypt a previously encrypted class
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Alex Matos
-*/
 
 public class BST<E> implements Tree<E> {
 	protected TreeNode<E> root;
