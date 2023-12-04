@@ -1,5 +1,5 @@
 # Binary-Tree-Animation
-Implemented functionality of buttons in a Binary Tree Application
+Implemented functionality of buttons in an application that animates a Binary Tree
 - Buttons 
   - Show Inorder
   - Show Preorder
